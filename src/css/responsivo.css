@@ -14,8 +14,8 @@
     }
 
     .lista-pokemons {
-        height: 430px;
-        width: 280px;
+        height: 380px;
+        width: 250px;
     }
 
     .cartao  {
@@ -24,7 +24,13 @@
     }
 
     .cartao .imagem-pokemon {
+        width: 80%;
         max-height: 230px;
+        padding: 5px;
+    }
+
+    .informacoes {
+        block-size: 12%;
     }
 
     .btn-img {
@@ -34,19 +40,27 @@
     
     .cartao .nome-pokemon {
         max-width: 50%;
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .cartao .vida-pokemon {
+        max-width: 40%;
         font-size: 13px;
     }
 
     .cartao .descricao {
         font-size: 12px;
+        block-size: 80%;
+        max-height: 130px;
     }
     
     .cartao .descricao .d-texto {
-        font-size: 12px;
+        font-size: 13px;
+        max-height: 75%;
     }
-    
+
+    .caixa-imagem {
+        padding-left: 25px;
+        
+    }
 }
