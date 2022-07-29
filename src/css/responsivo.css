@@ -15,9 +15,14 @@
 
     .lista-pokemons {
         height: 430px;
+        width: 280px;
     }
 
-    
+    .cartao  {
+        width: 100%;
+        height: 100%;
+    }
+
     .cartao .imagem-pokemon {
         max-height: 230px;
     }
@@ -43,4 +48,5 @@
     .cartao .descricao .d-texto {
         font-size: 12px;
     }
+    
 }
