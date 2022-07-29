@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* adicionado estilo as listas do HTML */
+ul {
+    list-style: none;
+}
