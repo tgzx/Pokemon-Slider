@@ -1,22 +1,16 @@
 @media (max-width: 620px){
     .pokemon-slider {
-        padding: 30px 10px;
+        width: 320px;
+        padding: 20px 0.1px;
         gap: 10px;
+        margin-left: auto;
+        margin-right: auto;
     }
-  
-    /* projeto original: comentar .base-carta */
-    /* .base-carta {
 
-        background-color: rgba(145, 145, 145, 0.103);
-        box-shadow: rgb(0, 0, 0) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.10) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
-        margin: 10px;
-        padding: 20px;
-        border-radius: 10px;
-    } */
-
+    /* para remover 'vidro' é só zerar .base-carta */
     .base-carta {
-        padding: 0px;
-        margin: 0px;
+        padding: 3%;
+        margin: 0.1px;
     }
 
     .btn-seta {
@@ -29,11 +23,8 @@
     }
 
     .lista-pokemons {
-        height: 380px; 
-        width: 250px;
-        /* background-color: aqua;
-        height: 410px; 
-        width: 280px; */
+        height: 370px; 
+        width: 240px;
     }
 
     .cartao  {

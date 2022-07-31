@@ -16,7 +16,6 @@ body {
     align-items: center;
     gap: 15px;
     padding: 10px;
-    /* padding-top: 50px; */
 }
 
 .cabecalho .titulo {
@@ -34,7 +33,7 @@ body {
 .sub {
     background-color: rgba(145, 145, 145, 0.103);
     box-shadow: rgb(0, 0, 0) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.10) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
-    margin-top: 5%;
+    margin-top: 3%;
     max-width: 310px;
     margin-left: auto;
     margin-right: auto;
@@ -54,11 +53,10 @@ body {
     justify-content: center;
     /* gap: 80px;
     padding: 20px;
-    margin-bottom: 60px; */
-    padding-top: 30px;
+    */
 }
 
-/* projeto original: comentar .base-carta */
+/* remover 'vidro' comentar .base-carta */
 .base-carta {
     background-color: rgba(145, 145, 145, 0.103);
     box-shadow: rgb(0, 0, 0) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.10) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
