@@ -1,5 +1,6 @@
 # Pokemon-Slider-Imersao-MapaDevWeek
 ### Desenvolvendo o primeiro projeto em HTML5, JS e CSS.
+## Link do site finalizado: https://tgzx.github.io/Pokemon-Slider-Imersao-MapaDevWeek/
 
 <img src="http://img.shields.io/static/v1?label=CODE&message=HTML%205&color=yellow&style=for-the-badge&logo=html5"/> <img src="http://img.shields.io/static/v1?label=CODE&message=CSS&color=blue&style=for-the-badge&logo=css"/> <img src="http://img.shields.io/static/v1?label=Progresso&message=em%20desenvolvimento&color=red&style=for-the-badge"/>
 
